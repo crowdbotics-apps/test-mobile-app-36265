@@ -28,6 +28,7 @@
     "@screens/appointment-list": "file:./screens/appointment-list/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/login": "file:./screens/login/",
+    "@screens/map-live-tracking": "file:./screens/map-live-tracking/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",

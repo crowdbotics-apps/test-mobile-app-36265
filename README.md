@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-about-the-app](screens/about-the-app)
 - [screen-appointment-list-view](screens/appointment-list)
 - [screen-forgot-password](screens/forgot-password)
+- [screen-map-live-tracking](screens/map-live-tracking)
 
 # Getting started: Frontend
 
