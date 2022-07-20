@@ -1242,7 +1242,10 @@
 "@screens/advance-search@file:./screens/advance-search":
   version "1.0.0"
 
-"@screens/appointment-list@file:./screens/appointment-list/":
+"@screens/appointment-list@file:./screens/appointment-list":
+  version "1.0.0"
+
+"@screens/forgot-password@file:./screens/forgot-password/":
   version "1.0.0"
 
 "@screens/login@file:./screens/login":

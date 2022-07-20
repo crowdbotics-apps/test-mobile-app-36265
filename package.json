@@ -26,6 +26,7 @@
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/advance-search": "file:./screens/advance-search/",
     "@screens/appointment-list": "file:./screens/appointment-list/",
+    "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/login": "file:./screens/login/",
     "axios": "^0.21.1",
     "react": "17.0.1",
