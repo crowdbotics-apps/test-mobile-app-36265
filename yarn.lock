@@ -1221,7 +1221,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/about-the-app@file:./screens/about-the-app/":
+"@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
 "@screens/account-settings@file:./screens/account-settings":
@@ -1240,6 +1240,9 @@
   version "1.0.0"
 
 "@screens/advance-search@file:./screens/advance-search":
+  version "1.0.0"
+
+"@screens/appointment-list@file:./screens/appointment-list/":
   version "1.0.0"
 
 "@screens/login@file:./screens/login":

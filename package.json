@@ -25,6 +25,7 @@
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/advance-search": "file:./screens/advance-search/",
+    "@screens/appointment-list": "file:./screens/appointment-list/",
     "@screens/login": "file:./screens/login/",
     "axios": "^0.21.1",
     "react": "17.0.1",

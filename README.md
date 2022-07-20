@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-activity-feed](screens/activity-feed)
 - [screen-account-settings](screens/account-settings)
 - [screen-about-the-app](screens/about-the-app)
+- [screen-appointment-list-view](screens/appointment-list)
 
 # Getting started: Frontend
 
