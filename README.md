@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-forgot-password](screens/forgot-password)
 - [screen-map-live-tracking](screens/map-live-tracking)
 - [react-native-user-profile](modules/user-profile)
+- [screen-appointment-calendar](screens/appointment-calendar)
 
 # Getting started: Frontend
 

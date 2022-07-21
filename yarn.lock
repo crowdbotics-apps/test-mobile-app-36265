@@ -1008,7 +1008,7 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/user-profile@file:./modules/user-profile/":
+"@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1246,6 +1246,9 @@
   version "1.0.0"
 
 "@screens/advance-search@file:./screens/advance-search":
+  version "1.0.0"
+
+"@screens/appointment-calendar@file:./screens/appointment-calendar/":
   version "1.0.0"
 
 "@screens/appointment-list@file:./screens/appointment-list":
